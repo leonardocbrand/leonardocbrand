@@ -19,6 +19,6 @@ Sou formado em Engenharia Civil e atuei cerca de 3 anos na área da construção
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardocbrand&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocbrand&layout=compact&theme=radical)
 ## 🔗 Contato
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][Opens in new tab](https://www.linkedin.com/in/leonardocbrand/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/leonardocbrand/){:target="_blank"}
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) leonardocbrand@gmail.com
