@@ -2,7 +2,7 @@
 
 
 ## 🚀 About me
-I have a degree in Civil Engineering and worked for about 3 years with civil construction. Now I'm focusing on the technology area in order to pursue a full-stack Dev career.
+I have a degree in Civil Engineering and worked for about 3 years with civil construction. Now I'm focusing on the technology area in order to pursue a dev full-stack career.
 
 ## More about me
 👩‍💻 Currently taking a Dev Full-Stack course at Trybe!
