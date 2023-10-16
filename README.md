@@ -39,6 +39,8 @@ I have a degree in Civil Engineering and worked for about 3 years with civil con
 ###  Tests
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Mocha](https://img.shields.io/badge/MOCHA-6D4A31?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/chai-974942?style=for-the-badge&logo=chai&logoColor=white)
 
 ## GitHub Status
 
