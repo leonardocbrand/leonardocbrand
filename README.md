@@ -52,6 +52,4 @@ I have a degree in Civil Engineering and worked for about 3 years with civil con
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardocbrand&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocbrand&layout=compact&theme=radical)
 
 ## 🔗 Get in touch
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardocbrand/)
-
-<a href = "mailto: leonardocbrand@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardocbrand/)     <a href = "mailto: leonardocbrand@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
