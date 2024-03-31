@@ -5,7 +5,7 @@
 I have a degree in Civil Engineering and worked for about 3 years with civil construction. Now I'm focusing on the technology area in order to pursue a fullstack web developer career.
 
 ## More about me
-👩‍💻 Currently working as Backend Developer course at devOZ!
+👩‍💻 Currently working as Backend Developer at devOZ!
 
 
 ## Skills
